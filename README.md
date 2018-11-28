@@ -79,12 +79,12 @@ Currently, the reward for mining a block is set to 1 bitcoin per block mined.
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `project1` to your list of dependencies in `mix.exs`:
+by adding `bitcoin` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:project1, "~> 0.1.0"}
+    {:bitcoin, "~> 0.1.0"}
   ]
 end
 ```
